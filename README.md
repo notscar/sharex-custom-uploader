@@ -1,4 +1,4 @@
-# **Sharex Custom Uploader**
+# **ShareX Custom Uploader**
  This is a project that took less than 2 hours to make with zero knowledge about sharex, and i will not be providing support as the installation process is really easy and problems only take place in the configuration of  Apache2 or  engine that's used to execute the php file.
 
 # Additional Notes: 
