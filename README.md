@@ -18,6 +18,7 @@ To edit the discord embed preview that currently is in the PHP file, you mmust f
 # **Important Notice**
 
 The /var/www/html folder or the VirtualHost folder must have 777 permissions, and with it the index.php file.
+
 The **Secret Key** must not be shared to un-trusted people, as it can lead to [code execution](https://en.wikipedia.org/wiki/Arbitrary_code_execution) as uploaded files are unchecked.
 
 # FAQ
