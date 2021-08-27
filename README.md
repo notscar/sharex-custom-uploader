@@ -15,6 +15,10 @@ To edit the discord embed preview that currently is in the PHP file, you mmust f
 6. Double click the file that has been generated in the same folder of the bat file
 7. Enjoy
 
+# **Important Notice**
+
+The /var/www/html folder or the VirtualHost folder must have 777 permissions, and with it the index.php file.
+
 # FAQ
 
 * How do i change the length of the URI ?
